@@ -32,15 +32,7 @@
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" />
 </picture></a> &nbsp;
 
-### Social
 
-<a href="https://www.github.com/johnle1812" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-
-### Badges
 #### My GitHub Stats
 
 <br/>
