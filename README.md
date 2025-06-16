@@ -33,12 +33,4 @@
 </picture></a> &nbsp;
 
 
-#### My GitHub Stats
-
-<br/>
-<a href="http://www.github.com/johnle1812"><img
-src="https://streak-stats.demolab.com/?user=johnle1812&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <br/>
-<br/>
-<a href="http://www.github.com/johnle1812"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=johnle1812&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
-
 
